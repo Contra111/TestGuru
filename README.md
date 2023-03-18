@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Сущности, использующиеся в приложении:
+ - администратор
+ - пользователь
